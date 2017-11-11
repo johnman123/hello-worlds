@@ -1,2 +1,2 @@
 # hello-worlds
-hi world,this is king just writing an exam in fycs division
+hi world,this is king john just writing an exam in fycs division
